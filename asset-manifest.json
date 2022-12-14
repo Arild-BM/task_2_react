@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/task_2_react/static/css/main.78929790.css",
+    "main.js": "/task_2_react/static/js/main.f4b41442.js",
+    "static/media/Picture.png": "/task_2_react/static/media/Picture.3e1d5cf6de34e47b7dd7.png",
+    "static/media/Instagram.svg": "/task_2_react/static/media/Instagram.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/GitHub.svg": "/task_2_react/static/media/GitHub.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/Twitter.svg": "/task_2_react/static/media/Twitter.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/LinkedIn.svg": "/task_2_react/static/media/LinkedIn.af0742428e66cf8a8083c9a1f0bf278d.svg",
+    "static/media/Facebook.svg": "/task_2_react/static/media/Facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "index.html": "/task_2_react/index.html",
+    "static/media/Email.svg": "/task_2_react/static/media/Email.9a2254b41727510aba0d31da7ad223f9.svg",
+    "main.78929790.css.map": "/task_2_react/static/css/main.78929790.css.map",
+    "main.f4b41442.js.map": "/task_2_react/static/js/main.f4b41442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78929790.css",
+    "static/js/main.f4b41442.js"
+  ]
+}
